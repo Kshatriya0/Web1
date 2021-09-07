@@ -1,0 +1,27 @@
+.center{
+  text-align:center;
+}
+
+.list{
+  justify-content: center
+}
+
+ul{
+  justify-content: center;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ol{
+  display: table;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
